@@ -9,7 +9,6 @@
 
 
 
-- :school: Soy un estudiante de ingeniería de sistemas curso actualmente 4to semestre
 - :computer: Aficionado al hacking ético y la Ciberseguridad
 - :nerd_face: I use Arch BTW
 
